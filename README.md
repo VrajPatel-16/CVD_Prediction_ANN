@@ -76,5 +76,16 @@ The model achieves **97% accuracy** in predicting the likelihood of cardiovascul
 The prediction results are presented as a **probability score**, where higher values indicate a higher likelihood of the disease.
 
 ---
+##  Prerequisites
 
+- Python 3.x  
+- Libraries:
+  - `pandas`  
+  - `numpy`  
+  - `matplotlib`  
+  - `seaborn`  
+  - `tensorflow`  
+  - `flask`  
+  - `scikit-learn`  
+- Git (for version control and repository management)
 
